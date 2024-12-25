@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634352844639",
+    "project_id": "yarbit-c3b25",
+    "storage_bucket": "yarbit-c3b25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634352844639:android:2e5727698d262d064500ea",
+        "android_client_info": {
+          "package_name": "com.example.client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcvQHtmdGu_Q02vBLYJ5gKfomfQxHkgII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
